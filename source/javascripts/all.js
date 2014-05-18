@@ -1,1 +1,3 @@
-//= require_tree .
+//= require jquery
+//= require knockout
+//= require anniversary
